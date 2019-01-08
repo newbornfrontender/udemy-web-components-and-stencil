@@ -49,7 +49,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Introduction
   - [x] Web Components - A Quick Demo
   - [x] What are Web Components
-  - [ ] Why Do We Use Web Components?
+  - [x] Why Do We Use Web Components?
   - [ ] Comparing Web Components & Frameworks
   - [ ] Course Outline
   - [ ] How To Get The Most Out Of The Course
