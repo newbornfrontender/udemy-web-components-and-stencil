@@ -5,5 +5,9 @@
   "repository": "https://github.com/newbornfrontender/udemy-web-components-and-stencil.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.15.3",
+    "serve": "^10.1.1"
+  }
 }
