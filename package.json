@@ -8,6 +8,7 @@
   "private": true,
   "scripts": {
     "pretty": "prettier --write *.{html,js,json,md}",
+    "compile": "babel src -d public",
     "watch": "serve"
   },
   "devDependencies": {
