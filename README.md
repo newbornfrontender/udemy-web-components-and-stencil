@@ -34,6 +34,22 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
     </tr>
     <tr>
       <td>
+        <code>compile</code>
+      </td>
+      <td>
+        Transpile code with Babel
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>compile:w</code>
+      </td>
+      <td>
+        Transpile code with Babel in watch mode
+      </td>
+    </tr>
+    <tr>
+      <td>
         <code>watch</code>
       </td>
       <td>
