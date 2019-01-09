@@ -84,6 +84,29 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Next-Gen JavaScript - Summary
   - [x] JS Array Functions
 
+- [ ] Understanding the Basics
+  - [ ] Module Introduction - What are Web Components?
+  - [ ] Browser Support
+  - [ ] Our Development Setup
+  - [ ] Creating our First Custom Element
+  - [ ] Interacting with the Surrounding DOM
+  - [ ] Understanding the Custom Elements Lifecycle
+  - [ ] Using "connectedcallback" for DOM Access
+  - [ ] Listening to Events Inside the Component
+  - [ ] Using Attributes on Custom Elements
+  - [ ] "Attributes" vs "Properties"
+  - [ ] Styling our Elements
+  - [ ] Using the Shadow DOM
+  - [ ] Adding an HTML Template
+  - [ ] Using Slots
+  - [ ] Defining the Template in JavaScript
+  - [ ] Using Style Tags in the Shadow DOM
+  - [ ] Extending Built-In Elements
+  <!-- - [ ] Time to Practice - The Basics -->
+  - [ ] Debugging
+  - [ ] Wrap Up
+  - [ ] Useful Resources & Links
+
 <h2 align="center">License</h2>
 
 [MIT](/LICENSE)
