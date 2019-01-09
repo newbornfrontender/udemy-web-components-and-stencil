@@ -1,17 +1,24 @@
-class Human {
-  gender = 'male';
+// const a = [1, 2, 3];
 
-  printGender = () => console.log(this.gender);
-}
+// const b = [...a, 4, 5];
 
-class Person extends Human {
-  name = 'Ann';
-  gender = 'female';
+// console.log(b);
 
-  printName = () => console.log(this.name);
-}
+// -----------------------------------------------------------------------------
 
-const person = new Person();
+// const a = {
+//   name: 'Jack',
+// };
 
-person.printName();
-person.printGender();
+// const b = {
+//   ...a,
+//   age: 30,
+// };
+
+// console.log(b);
+
+// -----------------------------------------------------------------------------
+
+const filter = (...args) => args.filter((el) => el === 1);
+
+console.log(filter(0, 1, 2, 3));
