@@ -52,7 +52,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Why Do We Use Web Components?
   - [x] Comparing Web Components & Frameworks
   - [x] Course Outline
-  - [ ] How To Get The Most Out Of The Course
+  - [x] How To Get The Most Out Of The Course
 
 <h2 align="center">License</h2>
 
