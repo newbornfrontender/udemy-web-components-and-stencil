@@ -54,6 +54,19 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Course Outline
   - [x] How To Get The Most Out Of The Course
 
+- [] Refreshing Next Generation JavaScript (Optional)
+  - [] Module Introduction
+  - [] Understanding "let" and "const"
+  - [] Working with Arrow Functions
+  - [] Exports and Imports
+  - [] Understanding Classes
+  - [] Classes, Properties and Methods
+  - [] The Spread & Rest Operator
+  - [] Refreshing Array Functions
+  - [] Understanding Async Code
+  - [] Next-Gen JavaScript - Summary
+  - [] JS Array Functions
+
 <h2 align="center">License</h2>
 
 [MIT](/LICENSE)
