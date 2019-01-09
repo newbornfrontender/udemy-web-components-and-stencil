@@ -46,6 +46,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
 <h2 align="center">Completed lectures</h2>
 
 - [x] Introduction
+
   - [x] Introduction
   - [x] Web Components - A Quick Demo
   - [x] What are Web Components
