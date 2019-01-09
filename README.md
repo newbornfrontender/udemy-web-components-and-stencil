@@ -71,7 +71,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Course Outline
   - [x] How To Get The Most Out Of The Course
 
-- [ ] Refreshing Next Generation JavaScript (Optional)
+- [x] Refreshing Next Generation JavaScript (Optional)
   - [x] Module Introduction
   - [x] Understanding "let" and "const"
   - [x] Working with Arrow Functions
