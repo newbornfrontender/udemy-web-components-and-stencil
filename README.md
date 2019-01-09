@@ -80,7 +80,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Classes, Properties and Methods
   - [x] The Spread & Rest Operator
   - [x] Refreshing Array Functions
-  - [ ] Understanding Async Code
+  - [x] Understanding Async Code
   - [ ] Next-Gen JavaScript - Summary
   - [ ] JS Array Functions
 
