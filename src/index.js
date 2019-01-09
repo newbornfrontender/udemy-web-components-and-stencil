@@ -1,24 +1,5 @@
-// const a = [1, 2, 3];
+const nums = [2, 4, 6];
 
-// const b = [...a, 4, 5];
+const double = nums.map((i) => i * 2);
 
-// console.log(b);
-
-// -----------------------------------------------------------------------------
-
-// const a = {
-//   name: 'Jack',
-// };
-
-// const b = {
-//   ...a,
-//   age: 30,
-// };
-
-// console.log(b);
-
-// -----------------------------------------------------------------------------
-
-const filter = (...args) => args.filter((el) => el === 1);
-
-console.log(filter(0, 1, 2, 3));
+console.log(double);
