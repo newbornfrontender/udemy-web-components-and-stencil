@@ -9,6 +9,7 @@
   "scripts": {
     "pretty": "prettier --write **/*.{html,js,json,md}",
     "compile": "babel src -d public",
+    "compile:w": "babel src -d public -w",
     "watch": "serve public"
   },
   "devDependencies": {
