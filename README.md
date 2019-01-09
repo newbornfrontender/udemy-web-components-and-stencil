@@ -62,7 +62,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Exports and Imports
   - [x] Understanding Classes
   - [x] Classes, Properties and Methods
-  - [ ] The Spread & Rest Operator
+  - [x] The Spread & Rest Operator
   - [ ] Refreshing Array Functions
   - [ ] Understanding Async Code
   - [ ] Next-Gen JavaScript - Summary
