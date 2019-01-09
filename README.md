@@ -62,7 +62,6 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
 <h2 align="center">Completed lectures</h2>
 
 - [x] Introduction:
-
   - [x] Introduction
   - [x] Web Components - A Quick Demo
   - [x] What are Web Components
@@ -70,9 +69,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Comparing Web Components & Frameworks
   - [x] Course Outline
   - [x] How To Get The Most Out Of The Course
-
 - [x] Refreshing Next Generation JavaScript (Optional):
-
   - [x] Module Introduction
   - [x] Understanding "let" and "const"
   - [x] Working with Arrow Functions
@@ -84,7 +81,6 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Understanding Async Code
   - [x] Next-Gen JavaScript - Summary
   - [x] JS Array Functions
-
 - [ ] Understanding the Basics:
   - [ ] Module Introduction - What are Web Components?
   - [ ] Browser Support
