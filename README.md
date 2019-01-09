@@ -59,7 +59,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Understanding "let" and "const"
   - [x] Working with Arrow Functions
   - [x] Exports and Imports
-  - [ ] Understanding Classes
+  - [x] Understanding Classes
   - [ ] Classes, Properties and Methods
   - [ ] The Spread & Rest Operator
   - [ ] Refreshing Array Functions
