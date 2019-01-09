@@ -82,7 +82,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Refreshing Array Functions
   - [x] Understanding Async Code
   - [x] Next-Gen JavaScript - Summary
-  - [ ] JS Array Functions
+  - [x] JS Array Functions
 
 <h2 align="center">License</h2>
 
