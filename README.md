@@ -72,6 +72,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] How To Get The Most Out Of The Course
 
 - [x] Refreshing Next Generation JavaScript (Optional)
+
   - [x] Module Introduction
   - [x] Understanding "let" and "const"
   - [x] Working with Arrow Functions
@@ -102,7 +103,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [ ] Defining the Template in JavaScript
   - [ ] Using Style Tags in the Shadow DOM
   - [ ] Extending Built-In Elements
-  <!-- - [ ] Time to Practice - The Basics -->
+    <!-- - [ ] Time to Practice - The Basics -->
   - [ ] Debugging
   - [ ] Wrap Up
   - [ ] Useful Resources & Links
