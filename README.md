@@ -81,7 +81,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] The Spread & Rest Operator
   - [x] Refreshing Array Functions
   - [x] Understanding Async Code
-  - [ ] Next-Gen JavaScript - Summary
+  - [x] Next-Gen JavaScript - Summary
   - [ ] JS Array Functions
 
 <h2 align="center">License</h2>
