@@ -88,7 +88,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Creating our First Custom Element
   - [x] Interacting with the Surrounding DOM
   - [x] Understanding the Custom Elements Lifecycle
-  - [ ] Using "connectedcallback" for DOM Access
+  - [x] Using "connectedcallback" for DOM Access
   - [ ] Listening to Events Inside the Component
   - [ ] Using Attributes on Custom Elements
   - [ ] "Attributes" vs "Properties"
