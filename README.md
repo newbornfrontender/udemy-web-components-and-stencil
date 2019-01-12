@@ -90,7 +90,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Understanding the Custom Elements Lifecycle
   - [x] Using "connectedcallback" for DOM Access
   - [x] Listening to Events Inside the Component
-  - [ ] Using Attributes on Custom Elements
+  - [x] Using Attributes on Custom Elements
   - [ ] "Attributes" vs "Properties"
   - [ ] Styling our Elements
   - [ ] Using the Shadow DOM
