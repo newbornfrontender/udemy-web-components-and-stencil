@@ -93,7 +93,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Using Attributes on Custom Elements
   - [ ] "Attributes" vs "Properties"
   - [x] Styling our Elements
-  - [ ] Using the Shadow DOM
+  - [x] Using the Shadow DOM
   - [ ] Adding an HTML Template
   - [ ] Using Slots
   - [ ] Defining the Template in JavaScript
