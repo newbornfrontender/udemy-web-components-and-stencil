@@ -81,7 +81,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Understanding Async Code
   - [x] Next-Gen JavaScript - Summary
   - [x] JS Array Functions
-- [ ] Understanding the Basics:
+- [x] Understanding the Basics:
   - [x] Module Introduction - What are Web Components?
   - [x] Browser Support
   - [x] Our Development Setup
