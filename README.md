@@ -100,7 +100,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Using Style Tags in the Shadow DOM
   - [x] Extending Built-In Elements
     <!-- - [ ] Time to Practice - The Basics -->
-  - [ ] Debugging
+  - [x] Debugging
   - [ ] Wrap Up
   - [ ] Useful Resources & Links
 - [ ] Diving Deeper Into Web Components:
