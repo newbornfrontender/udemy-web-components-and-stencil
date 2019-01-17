@@ -102,7 +102,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
     <!-- - [ ] Time to Practice - The Basics -->
   - [x] Debugging
   - [x] Wrap Up
-  - [ ] Useful Resources & Links
+  - [x] Useful Resources & Links
 - [ ] Diving Deeper Into Web Components:
   - [ ] Module Introduction
   - [ ] Understanding Shadow DOM Projection
