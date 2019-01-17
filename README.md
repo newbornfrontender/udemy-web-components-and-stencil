@@ -96,7 +96,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Using the Shadow DOM
   - [x] Adding an HTML Template
   - [x] Using Slots
-  - [ ] Defining the Template in JavaScript
+  - [x] Defining the Template in JavaScript
   - [ ] Using Style Tags in the Shadow DOM
   - [ ] Extending Built-In Elements
     <!-- - [ ] Time to Practice - The Basics -->
