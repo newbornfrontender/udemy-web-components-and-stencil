@@ -11,7 +11,10 @@
         border: 2px solid orange;
       }
     </style>
-    <script src="tooltip.js"></script>
+    <script type="module">
+      import '/tooltip.js';
+      import '/confirm-link.js';
+    </script>
   </head>
 
   <body>
@@ -25,5 +28,7 @@
     <uc-tooltip></uc-tooltip>
 
     <div>This does not get web component styles!</div>
+
+    <a href="https://www.google.com" is="uc-confirm-link">Google</a>
   </body>
 </html>
