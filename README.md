@@ -101,7 +101,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Extending Built-In Elements
     <!-- - [ ] Time to Practice - The Basics -->
   - [x] Debugging
-  - [ ] Wrap Up
+  - [x] Wrap Up
   - [ ] Useful Resources & Links
 - [ ] Diving Deeper Into Web Components:
   - [ ] Module Introduction
