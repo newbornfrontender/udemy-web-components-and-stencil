@@ -91,7 +91,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Using "connectedcallback" for DOM Access
   - [x] Listening to Events Inside the Component
   - [x] Using Attributes on Custom Elements
-  - [ ] "Attributes" vs "Properties"
+  - [x] "Attributes" vs "Properties"
   - [x] Styling our Elements
   - [x] Using the Shadow DOM
   - [x] Adding an HTML Template
@@ -101,6 +101,23 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Extending Built-In Elements
     <!-- - [ ] Time to Practice - The Basics -->
   - [ ] Debugging
+  - [ ] Wrap Up
+  - [ ] Useful Resources & Links
+- [ ] Diving Deeper Into Web Components:
+  - [ ] Module Introduction
+  - [ ] Understanding Shadow DOM Projection
+  - [ ] Styling "slot" Content Outside of the Shadow DOM
+  - [ ] Styling "slot" Content Inside the Shadow DOM
+  - [ ] Styling the Host Component
+  - [ ] Styling Components from Outside
+  - [ ] Conditional Host Styling
+  - [ ] Styling with the Host Content in Mind
+  - [ ] Smart Dynamic Styling with CSS Variables
+  - [ ] Cleaning Up Our Overall Styling
+  - [ ] Observing Attribute Changes
+  - [ ] Adjusting the Component Behaviour Upon Attribute Changes
+  - [ ] Using "disconnectedcallback"
+  - [ ] Adding a Render Method
   - [ ] Wrap Up
   - [ ] Useful Resources & Links
 
