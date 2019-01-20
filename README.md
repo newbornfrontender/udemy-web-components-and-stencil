@@ -105,7 +105,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Useful Resources & Links
 - [ ] Diving Deeper Into Web Components:
   - [x] Module Introduction
-  - [ ] Understanding Shadow DOM Projection
+  - [x] Understanding Shadow DOM Projection
   - [ ] Styling "slot" Content Outside of the Shadow DOM
   - [ ] Styling "slot" Content Inside the Shadow DOM
   - [ ] Styling the Host Component
