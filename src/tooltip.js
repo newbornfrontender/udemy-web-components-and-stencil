@@ -14,6 +14,10 @@ class Tooltip extends HTMLElement {
           background-color: black;
           z-index: 1;
         }
+
+        ::slotted(.highlight) {
+          border-bottom: 2px dotted orange;
+        }
       </style>
       <slot>Some default</slot><span> (?)</span>
     `;
