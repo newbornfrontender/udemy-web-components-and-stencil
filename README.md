@@ -120,6 +120,22 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Adding a Render Method
   - [x] Wrap Up
   - [x] Useful Resources & Links
+- [ ] Building More Complex Components:
+  - [ ] Module Introduction
+  - [ ] Creating the Basics Modal Component
+  - [ ] Adding the Modal Container
+  - [ ] Styling the Modal Elements
+  - [ ] Adding Some General App Logic
+  - [ ] Opening the Modal via CSS
+  - [ ] Public Methods & Properties
+  - [ ] Understanding Named Slots
+  - [ ] "slotchange" & Getting Access to Slot Content
+  - [ ] Closing the Modal with Modal Buttons
+  - [ ] Dispatching Custom Events
+  - [ ] Configuring Custom Events
+  - [ ] Adding Enhancements & Modal Animations
+  - [ ] Wrap Up
+  - [ ] Useful Resources & Links
 
 <h2 align="center">License</h2>
 
