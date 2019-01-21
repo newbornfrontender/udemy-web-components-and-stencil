@@ -9,7 +9,7 @@ class Tooltip extends HTMLElement {
     this.shadowRoot.innerHTML = `
       <style>
         :host([important]) {
-          background-color: lightgrey;
+          background-color: var(--color-primary, lightgrey);
         }
 
         :host-context(p[context]) {
