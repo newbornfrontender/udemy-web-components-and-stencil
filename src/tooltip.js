@@ -8,6 +8,10 @@ class Tooltip extends HTMLElement {
     this.attachShadow({ mode: 'open' });
     this.shadowRoot.innerHTML = `
       <style>
+        :host {
+          background-color: lightgrey;
+        }
+
         div {
           position: absolute;
           color: white;
@@ -18,8 +22,20 @@ class Tooltip extends HTMLElement {
         ::slotted(.highlight) {
           border-bottom: 2px dotted orange;
         }
+
+        .icon {
+          display: inline-flex;
+          justify-content: center;
+          align-items: center;
+          width: 20px;
+          height: 20px;
+          color: white;
+          background-color: black;
+          border-radius: 50%;
+        }
       </style>
-      <slot>Some default</slot><span> (?)</span>
+
+      <slot>Some default</slot><span class="icon"> ?</span>
     `;
   }
 
