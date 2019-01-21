@@ -14,6 +14,10 @@ class Tooltip extends HTMLElement {
           background-color: var(--color-primary, lightgrey);
         }
 
+        :host {
+          position: relative;
+        }
+
         :host-context(p[context]) {
           font-weight: bold;
         }
@@ -65,8 +69,6 @@ class Tooltip extends HTMLElement {
       this._hideTooltip.bind(this),
     );
 
-    this.style.position = 'relative';
-
     this._render();
   }
 
@@ -87,8 +89,6 @@ class Tooltip extends HTMLElement {
 
   _render() {
     let tooltipContainer = this.shadowRoot.querySelector('div');
-
-    console.log(tooltipContainer);
 
     if (this._tooltipVisible) {
       tooltipContainer = document.createElement('div');

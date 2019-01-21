@@ -118,7 +118,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Adjusting the Component Behaviour Upon Attribute Changes
   - [x] Using "disconnectedcallback"
   - [x] Adding a Render Method
-  - [ ] Wrap Up
+  - [x] Wrap Up
   - [ ] Useful Resources & Links
 
 <h2 align="center">License</h2>
