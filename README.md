@@ -117,7 +117,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Observing Attribute Changes
   - [x] Adjusting the Component Behaviour Upon Attribute Changes
   - [x] Using "disconnectedcallback"
-  - [ ] Adding a Render Method
+  - [x] Adding a Render Method
   - [ ] Wrap Up
   - [ ] Useful Resources & Links
 
