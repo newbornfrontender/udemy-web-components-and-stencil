@@ -115,7 +115,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Smart Dynamic Styling with CSS Variables
   - [x] Cleaning Up Our Overall Styling
   - [x] Observing Attribute Changes
-  - [ ] Adjusting the Component Behaviour Upon Attribute Changes
+  - [x] Adjusting the Component Behaviour Upon Attribute Changes
   - [ ] Using "disconnectedcallback"
   - [ ] Adding a Render Method
   - [ ] Wrap Up
