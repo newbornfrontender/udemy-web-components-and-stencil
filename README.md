@@ -109,7 +109,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Styling "slot" Content Outside of the Shadow DOM
   - [x] Styling "slot" Content Inside the Shadow DOM
   - [x] Styling the Host Component
-  - [ ] Styling Components from Outside
+  - [x] Styling Components from Outside
   - [ ] Conditional Host Styling
   - [ ] Styling with the Host Content in Mind
   - [ ] Smart Dynamic Styling with CSS Variables
