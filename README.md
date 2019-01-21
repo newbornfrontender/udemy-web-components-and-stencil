@@ -119,7 +119,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Using "disconnectedcallback"
   - [x] Adding a Render Method
   - [x] Wrap Up
-  - [ ] Useful Resources & Links
+  - [x] Useful Resources & Links
 
 <h2 align="center">License</h2>
 
