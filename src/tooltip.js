@@ -9,6 +9,7 @@ class Tooltip extends HTMLElement {
     this.shadowRoot.innerHTML = `
       <style>
         :host([important]) {
+          padding: .15rem;
           background-color: var(--color-primary, lightgrey);
         }
 
@@ -16,15 +17,21 @@ class Tooltip extends HTMLElement {
           font-weight: bold;
         }
 
-        div {
-          position: absolute;
-          color: white;
-          background-color: black;
-          z-index: 1;
-        }
-
         ::slotted(.highlight) {
           border-bottom: 2px dotted orange;
+        }
+
+        div {
+          position: absolute;
+          top: 1.5rem;
+          left: .75rem;
+          padding: .15rem;
+          font-weight: normal;
+          color: white;
+          background-color: black;
+          border-radius: 3px;
+          box-shadow: 1px 1px 6px rgba(0, 0, 0, .25);
+          z-index: 1;
         }
 
         .icon {

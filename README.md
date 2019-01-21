@@ -112,7 +112,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Styling Components from Outside
   - [x] Conditional Host Styling
   - [x] Styling with the Host Content in Mind
-  - [ ] Smart Dynamic Styling with CSS Variables
+  - [x] Smart Dynamic Styling with CSS Variables
   - [ ] Cleaning Up Our Overall Styling
   - [ ] Observing Attribute Changes
   - [ ] Adjusting the Component Behaviour Upon Attribute Changes
