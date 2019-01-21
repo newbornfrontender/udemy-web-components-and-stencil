@@ -12,6 +12,10 @@ class Tooltip extends HTMLElement {
           background-color: lightgrey;
         }
 
+        :host-context(p[context]) {
+          font-weight: bold;
+        }
+
         div {
           position: absolute;
           color: white;
