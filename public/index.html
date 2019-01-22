@@ -5,38 +5,30 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Document</title>
+
+    <title>Web Components</title>
+
     <style>
       * {
         box-sizing: border-box;
       }
 
-      :root {
-        --color-primary: rgb(111, 213, 247);
-      }
-
-      html {
+      body {
+        margin: 2rem;
         font-family: sans-serif;
       }
     </style>
-    <script type="module">
-      import '/tooltip.js';
-      import '/confirm-link.js';
-    </script>
   </head>
 
   <body>
-    <p context>
-      <uc-tooltip important text="Web Components is a set of standards">
-        <span class="highlight">Web components</span>
-      </uc-tooltip>
-      are awesome!
-    </p>
+    <main>
+      <uc-modal></uc-modal>
 
-    <uc-tooltip></uc-tooltip>
+      <p>Please confirm your choice</p>
 
-    <div>This does not get web component styles!</div>
+      <button>Show Details & Confirm</button>
+    </main>
 
-    <a href="https://www.google.com" is="uc-confirm-link">Google</a>
+    <script src="modal.js"></script>
   </body>
 </html>
