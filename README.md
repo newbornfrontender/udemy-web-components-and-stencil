@@ -56,6 +56,14 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
         Starting development server with Serve
       </td>
     </tr>
+    <tr>
+      <td>
+        <code>start</code>
+      </td>
+      <td>
+        Run <code>compile:w</code> and <code>watch</code> parallel with npm-run-all
+      </td>
+    </tr>
   </tbody>
 </table>
 
