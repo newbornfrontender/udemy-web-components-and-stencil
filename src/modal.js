@@ -20,17 +20,55 @@ class Modal extends HTMLElement {
           top: 15vh;
           left: 25vw;
           width: 50vw;
-          height: 20rem;
+          display: flex;
+          flex-direction: column;
+          justify-content: space-between;
           background-color: #fff;
           border-radius: 3px;
           box-shadow: 0 2px 8px rgb(0, 0, 0, .26);
           z-index: 2;
         }
+
+        header {
+          padding: 1rem;
+        }
+
+        h1 {
+          font-size: 1.2rem;
+        }
+
+        #main {
+          padding: 1rem;
+        }
+
+        #actions {
+          display: flex;
+          justify-content: flex-end;
+          padding: 1rem;
+          border-top: 1px solid #ccc;
+        }
+
+        button {
+          margin: 0 .35rem;
+        }
       </style>
 
       <div id="backdrop"></div>
 
-      <div id="modal"></div>
+      <div id="modal">
+        <header>
+          <h1>Please Confirm</h1>
+        </header>
+
+        <section id="main">
+          <slot></slot>
+        </section>
+
+        <section id="actions">
+          <button>Cancel</button>
+          <button>Okay</button>
+        </section>
+      </div>
     `;
   }
 }
