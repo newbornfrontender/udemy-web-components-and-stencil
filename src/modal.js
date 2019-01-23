@@ -12,6 +12,19 @@ class Modal extends HTMLElement {
           width: 100vw;
           height: 100vh;
           background: rgba(0, 0, 0, .75);
+          z-index: 1;
+        }
+
+        #modal {
+          position: fixed;
+          top: 15vh;
+          left: 25vw;
+          width: 50vw;
+          height: 20rem;
+          background-color: #fff;
+          border-radius: 3px;
+          box-shadow: 0 2px 8px rgb(0, 0, 0, .26);
+          z-index: 2;
         }
       </style>
 

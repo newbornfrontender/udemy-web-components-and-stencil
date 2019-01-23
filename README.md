@@ -131,7 +131,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
 - [ ] Building More Complex Components:
   - [x] Module Introduction
   - [x] Creating the Basics Modal Component
-  - [ ] Adding the Modal Container
+  - [x] Adding the Modal Container
   - [ ] Styling the Modal Elements
   - [ ] Adding Some General App Logic
   - [ ] Opening the Modal via CSS
