@@ -13,6 +13,8 @@ class Modal extends HTMLElement {
           height: 100vh;
           background: rgba(0, 0, 0, .75);
           z-index: 1;
+          opacity: 0;
+          pointer-events: none;
         }
 
         #modal {
@@ -27,6 +29,8 @@ class Modal extends HTMLElement {
           border-radius: 3px;
           box-shadow: 0 2px 8px rgb(0, 0, 0, .26);
           z-index: 2;
+          opacity: 0;
+          pointer-events: none;
         }
 
         header {
