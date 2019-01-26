@@ -80,6 +80,11 @@ class Modal extends HTMLElement {
         </section>
       </div>
     `;
+
+    const slots = this.shadowRoot.querySelectorAll('slot');
+    slots[1].addEventListener('slotchange', (e) =>
+      console.dir(slots[1].assignedNodes()),
+    );
   }
 
   // attributeChangedCallback(name, prev, next) {
