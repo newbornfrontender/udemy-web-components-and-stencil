@@ -1,4 +1,6 @@
 class Modal extends HTMLElement {
+  isOpen = false;
+
   constructor() {
     super();
 
@@ -87,18 +89,26 @@ class Modal extends HTMLElement {
     );
   }
 
-  // attributeChangedCallback(name, prev, next) {
-  //   if (name === 'opened')
-  //    if (this.hasAttribute('opened'))
-  //      this.shadowRoot.querySelector('#backdrop').style.opacity = 1
-  //      this.shadowRoot.querySelector('#backdrop').style.pointerEvents = 'all'
-  //      this.shadowRoot.querySelector('#modal').style.opacity = 1
-  //      this.shadowRoot.querySelector('#modal').style.pointerEvents = 'all'
-  // }
+  attributeChangedCallback(name, prev, next) {
+    if (name === 'opened') {
+      if (this.hasAttribute('opened'))
+        //  this.shadowRoot.querySelector('#backdrop').style.opacity = 1;
+        //  this.shadowRoot.querySelector('#backdrop').style.pointerEvents = 'all';
+        //  this.shadowRoot.querySelector('#modal').style.opacity = 1;
+        //  this.shadowRoot.querySelector('#modal').style.pointerEvents = 'all';
+        this.isOpen = true;
+    } else {
+      this.isOpen = false;
+    }
+  }
 
-  // static get observedAttributes() {
-  //   return ['opened']
-  // }
+  static get observedAttributes() {
+    return ['opened'];
+  }
+
+  open() {
+    this.setAttribute('opened', '');
+  }
 }
 
 customElements.define('uc-modal', Modal);
