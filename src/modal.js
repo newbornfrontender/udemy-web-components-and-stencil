@@ -93,6 +93,10 @@ class Modal extends HTMLElement {
 
     cancelBtn.addEventListener('click', this._cancel.bind(this));
     confirmBtn.addEventListener('click', this._confirm.bind(this));
+
+    cancelBtn.addEventListener('cancel', () =>
+      console.log('Cancel inside the component'),
+    );
   }
 
   attributeChangedCallback(name, prev, next) {
@@ -122,8 +126,11 @@ class Modal extends HTMLElement {
     this.isOpen = false;
   }
 
-  _cancel() {
+  _cancel(event) {
     this.hide();
+
+    const cancelEvent = new Event('cancel');
+    event.target.dispatchEvent(cancelEvent);
   }
 
   _confirm() {
