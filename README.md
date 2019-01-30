@@ -140,7 +140,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] "slotchange" & Getting Access to Slot Content
   - [x] Closing the Modal with Modal Buttons
   - [x] Dispatching Custom Events
-  - [ ] Configuring Custom Events
+  - [x] Configuring Custom Events
   - [ ] Adding Enhancements & Modal Animations
   - [ ] Wrap Up
   - [ ] Useful Resources & Links
