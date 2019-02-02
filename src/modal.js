@@ -13,6 +13,10 @@ class Modal extends HTMLElement {
           pointer-events: all;
         }
 
+        :host([opened]) #modal {
+          top: 15vh;
+        }
+
         #backdrop {
           position: fixed;
           top: 0;
@@ -27,7 +31,7 @@ class Modal extends HTMLElement {
 
         #modal {
           position: fixed;
-          top: 15vh;
+          top: 10vh;
           left: 25vw;
           width: 50vw;
           display: flex;
@@ -39,13 +43,16 @@ class Modal extends HTMLElement {
           z-index: 2;
           opacity: 0;
           pointer-events: none;
+          transition: all 0.3s ease-out;
         }
 
         header {
           padding: 1rem;
+          border-bottom: 1px solid #ccc;
         }
 
         ::slotted(h1) {
+          margin: 0;
           font-size: 1.2rem;
         }
 
@@ -97,6 +104,10 @@ class Modal extends HTMLElement {
     cancelBtn.addEventListener('cancel', () =>
       console.log('Cancel inside the component'),
     );
+
+    const backdrop = this.shadowRoot.querySelector('#backdrop');
+
+    backdrop.addEventListener('click', this._cancel.bind(this));
   }
 
   attributeChangedCallback(name, prev, next) {
