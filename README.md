@@ -144,6 +144,16 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Adding Enhancements & Modal Animations
   - [x] Wrap Up
   - [x] Useful Resources & Links
+- [ ] Stencil - An Introduction:
+  - [ ] Module Introduction
+  - [ ] Using Web Components in Modern Browsers
+  - [ ] Browser Support for Web Components
+  - [ ] Using Web Components in All Browsers
+  - [ ] Creating a Stencil Project
+  - [ ] What is Stencil?
+  - [ ] Stencil.js behind the Scenes
+  - [ ] Diving Into a First Stencil Component
+  - [ ] Wrap Up
 
 <h2 align="center">License</h2>
 
