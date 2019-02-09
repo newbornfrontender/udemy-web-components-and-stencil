@@ -143,7 +143,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Configuring Custom Events
   - [x] Adding Enhancements & Modal Animations
   - [x] Wrap Up
-  - [ ] Useful Resources & Links
+  - [x] Useful Resources & Links
 
 <h2 align="center">License</h2>
 
