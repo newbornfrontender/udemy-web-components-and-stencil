@@ -128,7 +128,7 @@ A Complete Introduction to building Custom HTML Elements / Web Components with a
   - [x] Adding a Render Method
   - [x] Wrap Up
   - [x] Useful Resources & Links
-- [ ] Building More Complex Components:
+- [x] Building More Complex Components:
   - [x] Module Introduction
   - [x] Creating the Basics Modal Component
   - [x] Adding the Modal Container
